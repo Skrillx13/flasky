@@ -1,2 +1,3 @@
 # flasky
-A small &amp; simple theme for MKDocs. Also a derivative of some Sphinx themes.
+
+A small & simple theme for MKDocs. Also a derivative of some Sphinx themes.

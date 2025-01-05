@@ -1,0 +1,10 @@
+[project]
+name = "flasky"
+version = "0.1.0"
+description = "A small and simple theme for MKDocs. Also a derivative of some Sphinx themes."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "pygments>=2.18.0",
+]

@@ -1,0 +1,8 @@
+# - Python Packages -
+.venv
+flasky.egg-info
+site
+
+# - Misc -
+.vscode
+.DS_Store

@@ -1,0 +1,14 @@
+site_name: Flasky
+
+theme:
+  name: null
+  custom_dir: 'flasky'
+
+markdown_extensions:
+  - toc:
+      permalink: ¶
+
+nav:
+  - Home: index.md
+  - Sub:
+    - hi ma: sub/sub1.md
