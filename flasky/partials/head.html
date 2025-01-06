@@ -4,6 +4,7 @@
     {%- for path in config.extra_css %}
         <link href="{{ path | url }}" rel="stylesheet">
     {%- endfor %}
+    <link rel="stylesheet" href="{{ "stylesheets/highlights.css"|url }}">
     <link rel="stylesheet" href="{{ "stylesheets/flasky.css"|url }}">
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
 </head>

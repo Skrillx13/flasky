@@ -1,6 +1,3 @@
-highlightjs: false
-highlight_theme: highlights.FlaskyHighlights
-
 markdown_extensions:
   - toc:
       permalink: ¶
